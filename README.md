@@ -4,6 +4,12 @@ Visit JLCPCB (https://jlcpcb.com/RAT)
 
 The article is being published in collaboration with JLCPCB. It is one of the most experienced PCB manufacturers with more than a decade in the field of PCB prototype and fabrication, they are committed to meeting the needs of our customers from different industries in terms of quality, delivery, cost-effectiveness and any other demanding requests.
 
+# About ATMEGA328P:
+
+The high-performance Microchip picoPower® 8-bit AVR® RISC-based microcontroller combines 32 KB ISP Flash memory with read-while-write capabilities, 1024B EEPROM, 2 KB SRAM, 23 general-purpose I/O lines, 32 general purpose working registers, three flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented Two-Wire serial interface, SPI serial port, a 6-channel 10-bit A/D converter (8-channels in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator, and five software selectable power saving modes. 
+
+The device operates between 1.8-5.5 volts. By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching one MIPS per MHz, balancing power consumption and processing speed.
+
 # Ordering the PCBs From JLCPCB 
 
 Full Process is shown using Screenshots Step-wise.
